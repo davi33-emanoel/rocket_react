@@ -1,5 +1,5 @@
 import React from "react";
 
 export function App() {
-    return <h1>hello wolrd</h1>
+    return <h1>hello Reactjs</h1>
 }
